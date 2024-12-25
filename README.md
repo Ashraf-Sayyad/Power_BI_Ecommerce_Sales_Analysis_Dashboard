@@ -68,3 +68,11 @@
 
 ![image](https://github.com/user-attachments/assets/e3a53a57-9e9b-4127-8a3f-c65f66490630)
 
+---
+
+**Business Value:**
+The insights from this dashboard empower the business to:
+
+Enhance profitability by targeting underperforming regions and categories.
+Optimize inventory and marketing strategies based on customer preferences.
+Drive operational efficiency by focusing on high-performing sub-categories and reducing losses during low-profit months.
