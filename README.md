@@ -1,7 +1,5 @@
 **Madhav Ecommerce Sales Analysis**
 
-
-
 ---
 
 ### **Key Insights:**
@@ -11,6 +9,13 @@
    - **Total Profit:** ₹37K
    - **Average Order Value (AOV):** ₹121K
    - **Total Quantity Sold:** 5615 units
+
+---
+
+![image](https://github.com/user-attachments/assets/e3a53a57-9e9b-4127-8a3f-c65f66490630)
+
+---
+
 
 2. **State-Wise Performance:**
    - **Top State by Sales:** Maharashtra leads in sales amount, followed by Madhya Pradesh.
@@ -63,10 +68,6 @@
 6. **Sub-Category Improvement:**
    - **Reassess Accessories and Sarees:** Analyze market trends, pricing, and competition to improve their appeal.
    - **Leverage Top-Performing Items:** Highlight printers and bookcases in campaigns to maximize their potential.
-
----
-
-![image](https://github.com/user-attachments/assets/e3a53a57-9e9b-4127-8a3f-c65f66490630)
 
 ---
 
