@@ -1,41 +1,70 @@
-# Power-BI-Superstore-Sales-Analysis-and-Forecasting-Dashboard
-Developed an interactive and visually appealing Power BI dashboard to analyze and forecast sales for a supermarket. 
+**Madhav Ecommerce Sales Analysis**
 
 
-**Objective**
-To contribute to business success by leveraging data analysis techniques, with a specialization in **time series analysis**, 
-to deliver actionable insights and **accurate sales forecasting**, driving strategic decision-making and growth.
 
+---
 
-**Description**
-**Dashboard Creation**
-Identify Key Performance Indicators (KPIs) relevant to business objectives.
-Design and implement intuitive, visually appealing dashboards with interactive visualizations and filtering capabilities.
-Enable users to explore data at various levels of granularity for better decision-making.
+### **Key Insights:**
 
+1. **Overall Performance:**
+   - **Total Sales:** ₹438K
+   - **Total Profit:** ₹37K
+   - **Average Order Value (AOV):** ₹121K
+   - **Total Quantity Sold:** 5615 units
 
-**Data Analysis**
-Conduct in-depth analysis to evaluate the effectiveness of sales strategies.
-Use data visualization and charts to present insights in an accessible and impactful manner.
+2. **State-Wise Performance:**
+   - **Top State by Sales:** Maharashtra leads in sales amount, followed by Madhya Pradesh.
+   - **Low Sales States:** Delhi has the least sales contribution, requiring attention.
 
+3. **Category-Wise Sales:**
+   - **Dominant Category:** Clothing contributes 63% of the total quantity sold.
+   - **Other Categories:** Electronics (21%) and Furniture (17%) are significantly lower.
 
-**Sales Forecasting**
-Utilize historical data to apply advanced time series analysis techniques.
-Generate accurate sales forecasts for a 15-day horizon, aiding in inventory and resource planning.
+4. **Payment Modes:**
+   - **Preferred Method:** Cash on Delivery (COD) dominates with 44%.
+   - **Emerging Methods:** UPI (21%) and Debit Cards (13%) are growing but have room for improvement.
 
+5. **Monthly Profit Trends:**
+   - **Positive Trends:** May and December have high profitability.
+   - **Negative Trends:** Significant losses in July and August signal potential issues like discounts or mismanagement.
 
-**Actionable Insights and Recommendations**
-Provide strategic insights and recommendations that align with the supermarket's growth, efficiency, and customer satisfaction goals.
-Drive improvements in sales strategies and operational processes.
+6. **Sub-Category Profits:**
+   - **Top Performers:** Printers and Bookcases generate the highest profits.
+   - **Low Performers:** Accessories and Sarees have minimal profit contribution, indicating underperformance.
 
+7. **Customer Insights:**
+   - **Top Customers:** Harivansh and Madhav are significant contributors.
+   - **Other Customers:** Madan Mohan and Shiva contribute less, highlighting potential for engagement.
 
-**Learning Outcome**
-Developed and applied advanced data analysis techniques, specializing in **time series analysis**, to deliver actionable insights, 
-accurate sales forecasting, and interactive dashboards, significantly contributing to business success and strategic growth.
+---
 
+### **Actionable Recommendations:**
 
-![image](https://github.com/user-attachments/assets/342eb01e-273c-4cad-9664-71abcc7d133c)
+1. **State-Wise Strategy:**
+   - **Boost Sales in Delhi:** Focus on targeted promotions, local advertisements, and partnerships in Delhi.
+   - **Strengthen Maharashtra’s Market:** Maintain leadership by introducing loyalty programs or exclusive discounts.
 
+2. **Category Focus:**
+   - **Promote Furniture & Electronics:** Increase visibility through better product placements, offers, or bundling.
+   - **Optimize Clothing Inventory:** Leverage high sales volume to negotiate supplier discounts or improve margins.
 
-![image](https://github.com/user-attachments/assets/cff146c7-351d-46fc-aa09-b9aa3b6c1256)
+3. **Payment Optimization:**
+   - **Encourage Digital Payments:** Offer incentives like cashback or discounts for UPI and card payments to reduce dependency on COD.
+   - **Simplify EMI Options:** Promote EMI as a viable choice for high-value products.
+
+4. **Monthly Profit Recovery:**
+   - **Address Losses in July-August:** Review pricing strategies, marketing efforts, and operational efficiency during these months.
+   - **Replicate December Success:** Analyze December strategies (e.g., festive sales) and apply similar tactics in other months.
+
+5. **Customer Engagement:**
+   - **Reward Loyal Customers:** Offer exclusive benefits or personalized deals to top customers (e.g., Harivansh and Madhav).
+   - **Engage Low-Contributors:** Use targeted email campaigns or feedback surveys to understand needs and drive engagement.
+
+6. **Sub-Category Improvement:**
+   - **Reassess Accessories and Sarees:** Analyze market trends, pricing, and competition to improve their appeal.
+   - **Leverage Top-Performing Items:** Highlight printers and bookcases in campaigns to maximize their potential.
+
+---
+
+![image](https://github.com/user-attachments/assets/e3a53a57-9e9b-4127-8a3f-c65f66490630)
 
