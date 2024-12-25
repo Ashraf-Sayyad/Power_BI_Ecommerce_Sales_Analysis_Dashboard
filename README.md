@@ -33,4 +33,9 @@ Drive improvements in sales strategies and operational processes.
 Developed and applied advanced data analysis techniques, specializing in **time series analysis**, to deliver actionable insights, 
 accurate sales forecasting, and interactive dashboards, significantly contributing to business success and strategic growth.
 
-![image](https://github.com/user-attachments/assets/fffd0a51-c2c6-414a-9990-2af3b85e7fe0)
+
+![image](https://github.com/user-attachments/assets/342eb01e-273c-4cad-9664-71abcc7d133c)
+
+
+![image](https://github.com/user-attachments/assets/cff146c7-351d-46fc-aa09-b9aa3b6c1256)
+
